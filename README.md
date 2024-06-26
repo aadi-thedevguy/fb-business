@@ -11,4 +11,4 @@
 - [x] User Authentication
 - [x] Facebook Page Insights
 
-### <a href="https://fb-business.netlify.app" target="_blank" rel="noreferrer noopener">*Live Site ✅* </a>
+### <a href="https://fb.thedevguy.in" target="_blank" rel="noreferrer noopener">*Live Site ✅* </a>
